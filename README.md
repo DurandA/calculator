@@ -1,5 +1,7 @@
 Calculator
 ---
+[![Build Status](https://travis-ci.org/DurandA/calculator.svg?branch=master)](https://travis-ci.org/DurandA/calculator)
+
 <img src="Logotype primary.png" width="60%" height="60%" />
 
 Created with *create-react-app*. See the [full create-react-app guide](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
