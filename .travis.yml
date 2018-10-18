@@ -1,5 +1,11 @@
 language: node_js
 node_js:
   - "8"
+addons:
+  sonarcloud:
+    organization: "duranda-github" # the key of the org you chose at step #3
+    token: $SONAR_TOKEN
 script:
-  - npm test --
+  # other script steps might be done before running the actual analysis
+  - npm test -- --coverage
+  - sonar-scanner

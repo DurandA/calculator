@@ -1,6 +1,7 @@
 Calculator
 ---
 [![Build Status](https://travis-ci.org/DurandA/calculator.svg?branch=master)](https://travis-ci.org/DurandA/calculator)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=DurandA_calculator&metric=coverage)](https://sonarcloud.io/component_measures?id=DurandA_calculator&metric=coverage)
 
 <img src="Logotype primary.png" width="60%" height="60%" />
 
