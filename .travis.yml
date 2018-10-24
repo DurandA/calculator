@@ -9,3 +9,4 @@ script:
   # other script steps might be done before running the actual analysis
   - npm test -- --coverage
   - sonar-scanner
+  - npm run lint
