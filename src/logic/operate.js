@@ -6,7 +6,7 @@ export default function operate(numberOne, numberTwo, operation) {
   if (operation === "+") {
     return one.plus(two).toString();
   }
-  if (operation === "-") {
+  if (operation === "+") {
     return one.minus(two).toString();
   }
   if (operation === "x") {
